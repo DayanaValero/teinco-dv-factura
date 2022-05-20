@@ -1,0 +1,83 @@
+body {
+    overflow: hidden;
+}
+
+.contenedor {
+    margin: 0 0 0 0;
+}
+
+.encabezado {
+    margin: 0 240px 25px 240px;
+    text-align: center;
+    border: #ced4da solid 1px;
+}
+
+.titulo {
+    color: rgb(0, 0, 0);
+    font-size: 30px;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    padding: 10px 0 0 0;
+}
+
+.subtitulo {
+    font-weight: bold;
+    color: #83AF19;
+    font-size: 25px;
+}
+
+.carrito {
+    padding: 25px 0 0 0;
+}
+
+.cuerpo {
+    margin: 0 250px 0 250px;
+}
+
+.fila {
+    border: #ced4da 1px solid;
+    padding: 2px;
+}
+
+.articulos {
+    border: #ced4da 1px solid;
+    text-align: center;
+}
+
+.articulo {
+    margin: 2px;
+}
+
+.articulo img {
+    width: 100px;
+    /* height: 100px; */
+}
+
+.subtotales div {
+    padding: 5px 0 5px 5px;
+}
+
+.subtotales input {
+    width: 90%;
+}
+
+.botones {
+    text-align: center;
+    padding: 3% 0 0 0;
+}
+
+.totales {
+    border: #ced4da 1px solid;
+}
+
+.totales div {
+    padding: 5px 0 5px 5px;
+}
+
+.totales input {
+    width: 90%;
+}
+
+.pie {
+    margin: 25px 0 0 0;
+    text-align: center;
+}
